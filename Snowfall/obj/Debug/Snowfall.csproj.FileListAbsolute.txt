@@ -1,0 +1,22 @@
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\bin\Debug\Snowfall.exe.config
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\bin\Debug\Snowfall.exe
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\bin\Debug\Snowfall.pdb
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.csproj.AssemblyReference.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.Form1.resources
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.Properties.Resources.resources
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.csproj.GenerateResource.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.exe
+C:\Users\HUAWEi\OneDrive\Рабочий стол\Snowfall\obj\Debug\Snowfall.pdb
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\bin\Debug\Snowfall.exe.config
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\bin\Debug\Snowfall.exe
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\bin\Debug\Snowfall.pdb
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.csproj.AssemblyReference.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.Form1.resources
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.Properties.Resources.resources
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.csproj.GenerateResource.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.exe
+C:\Users\HUAWEi\OneDrive\Рабочий стол\3 курс\системное программирование\Snowfall\obj\Debug\Snowfall.pdb
