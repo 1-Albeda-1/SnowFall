@@ -48,18 +48,15 @@ namespace Snowfall
                 {
                     snowflake.Y = -snowflake.Size;
                 }
-                if (snowflake.Y > 0)
-                {
-                    Draw();
-                }
             }
+            Draw();
             timer.Start();
         }
 
         private void AddSnowflakes()
         {
             var rnd = new Random();
-            for (int i = 0; i < 50; i++)
+            for (int i = 0; i < 70; i++)
             {
                 snowflakes.Add(new Snowflake
                 {
@@ -83,11 +80,11 @@ namespace Snowfall
             {
                 if (snowflake.Y > 0)
                 {
-                        buffer.DrawImage(snow, new Rectangle(
-                        snowflake.X,
-                        snowflake.Y,
-                        snowflake.Size,
-                        snowflake.Size));
+                    buffer.DrawImage(snow, new Rectangle(
+                    snowflake.X,
+                    snowflake.Y,
+                    snowflake.Size,
+                    snowflake.Size));
                 }
             }
 
@@ -103,22 +100,13 @@ namespace Snowfall
             {
                 timer.Start();
                 n++;
-                Console.WriteLine("Сейчас Start");
             }
             else if (n == 1)
             {
-                speed = 25;
-                n++;
-                Console.WriteLine("Сейчас Start c доп скоростью");
-            }
-            else if (n == 2)
-            {
                 timer.Stop();
-                speed = 0;
                 n = 0;
-                Console.WriteLine("Сейчас Stop");
             }
-        }
 
+        }
     }
 }
